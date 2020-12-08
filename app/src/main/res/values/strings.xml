@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Campurangaje</string>
+    <string name="lbl_Following_count">28</string>
+    <string name="lbl_follower_count">28</string>
+    <string name="lbl_post_count">28</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="profile_nama">Muhammad Amrin Mukhodas</string>
+    <string name="profile_bio_2">Politeknik Negeri Ketapang</string>
+    <string name="profile_bio_1">Informatics Engineering</string>
+    <string name="profile_btn_follow">Follow</string>
+    <string name="Profile_message">Send Message</string>
+    <string name="profile_more">V</string>
+
+
+    <string name="content_text">Macbook pro 2020 MXK32 Intel i5 1,4Ghz 256GB 8GB</string>
+    <string name="content_specs_display">2560x1440</string>
+    <string name="content_specs_size">13"</string>
+    <string name="content_specs_battery">Processor Intel Core i5 Quad Core
+        Memory RAM 8GB DDR3L 2133MHz
+        Storage SSD 256GB M.2 PCIe
+        Graphics Intel Iris Plus
+        Screen Display 13.3" QHD Retina
+        </string>
+    <string name="content_price">Rp. 18.300.000</string>
+    <string name="intent_with_result">Intent With Result</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="intent_with_parcelable">Intent With Parcelable</string>
+    <string name="intent_with_data">Intent With Data</string>
+    <string name="simple_activity">Simple Activity</string>
+    <string name="profile">Profile</string>
+    <string name="muhammad_amrin_mukhodas">Muhammad Amrin Mukhodas</string>
+    <string name="back">Back</string>
+    <string name="todo">TODO</string>
+</resources>
